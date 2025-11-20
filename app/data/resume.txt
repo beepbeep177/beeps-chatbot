@@ -74,3 +74,4 @@ Specializations: Full-stack development, UI/UX design, API development, Machine 
 - CCNA: Introduction to Networks (2023)
 - IT Specialist - Python (2023)
 - IT Specialist - Java (2022)
+
