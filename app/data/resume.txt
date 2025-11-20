@@ -1,0 +1,76 @@
+=== PERSONAL INFORMATION ===
+Name: Bea Therese Y. Paras
+Title: Junior Software Engineer
+Email: beaparas172002@gmail.com
+Phone: +63 918 241 9675
+Location: Manila, Philippines
+GitHub: Bea's GitHub
+
+=== PROFESSIONAL SUMMARY ===
+Full-stack oriented Junior Software Engineer with hands-on experience in building responsive user interfaces and developing backend features for real-world projects. Equipped with a strong foundation in HTML, CSS, JavaScript, Java, C++, and database-driven applications. Skilled in React, Tailwind, Firebase, MySQL, and currently expanded expertise in TypeScript, MongoDB, backend API development, and early-stage experimentation with AI-driven features such as recommendation systems and basic ML workflows. Known for adaptability, strong collaboration skills, and a consistent drive to learn and explore new technologies.
+
+=== EDUCATION ===
+
+FEU Institute of Technology
+- Degree: BS Computer Science with Specialization in Software Engineering
+- Location: Manila, Philippines
+- Duration: 2021 - 2025
+- Achievements:
+  • Frontend Developer, GatherinManila: A Machine-Learning Powered Event Aggregation and Recommendation Application
+  • Member, FEU Tech Association for Computing Machinery (ACM), 2021-2023
+  • Member, FEU Tech Junior Philippine Computer Society (JPCS), 2021-2022
+  • Dean's Lister, 2021-2022
+
+Wellspring High School
+- Program: JHS-SHS Science, Technology, Engineering, and Mathematics
+- Location: Tarlac, Philippines
+- Duration: 2019 - 2021
+- Achievement: With Honors Awardee
+
+=== INTERNSHIP EXPERIENCE ===
+
+GlobalTek - Full-Stack Development Intern (2025)
+- Led the development of a multi-section company website, contributing to architectural decisions and overall feature planning
+- Built responsive and dynamic frontend interfaces using React, Tailwind CSS, and Framer Motion, ensuring consistent UI/UX across pages
+- Implemented backend logic for an internal project, including API integration, data processing, and server-side functionality
+- Collaborated on database structuring and data flow to support both frontend and backend requirements
+- Worked closely with designers and senior developers to align technical output with project specifications and performance goals
+
+=== PROJECT EXPERIENCE ===
+
+GatherinManila: Machine-Learning Powered Event Aggregation and Recommendation Application
+- Developed a content-based recommendation system utilizing K-Nearest Neighbor (KNN) and Cosine Similarity algorithms to enhance event discovery in Manila City
+- Integrated Firebase to manage user authentication and store preferences, allowing secure, personalized recommendations
+- Implemented a data extraction mechanism to centralize event details from social media and business sites
+- Designed an intuitive Android Studio interface for seamless user interaction and browsing
+
+Bea's Passport Appointment System (BPAS)
+- Developed a desktop application for efficient passport appointment scheduling using Java Swing and MySQL
+- Built an intuitive interface to streamline user appointment booking and management
+- Created an admin dashboard for handling appointments and user data securely
+- Leveraged MySQL for reliable data storage and retrieval with automated confirmations
+
+Billing System
+- Developed a billing system using Java Swing and NetBeans with an intuitive user interface
+- Enabled efficient invoice generation, calculation, and record management
+- Implemented streamlined workflows for billing management
+
+=== LEADERSHIP EXPERIENCE ===
+
+CS Chairman - TICAP 18 at FEU Institute of Technology (2025)
+- Oversaw the planning and execution of the batch's thesis and capstone showcase
+- Managed committees, coordinated logistics, and ensured smooth event operations
+- Served as host/emcee, engaging the audience and facilitating the program flow
+
+=== TECHNICAL SKILLS ===
+Programming Languages: C++, Java, Python, JavaScript, HTML, CSS, PHP
+Frameworks & Libraries: ReactJS, Tailwind CSS, Framer Motion, Java Swing
+Databases: MySQL, MongoDB, Firebase
+Tools & Technologies: Android Studio, NetBeans, Cisco, Git
+Specializations: Full-stack development, UI/UX design, API development, Machine Learning, Database design
+
+=== CERTIFICATIONS ===
+- DevNet Associate (2024)
+- CCNA: Introduction to Networks (2023)
+- IT Specialist - Python (2023)
+- IT Specialist - Java (2022)
