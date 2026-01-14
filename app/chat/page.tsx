@@ -95,7 +95,7 @@ export default function ChatPage() {
         {messages.length === 0 && (
           <div className="text-center py-20">
             <div className="text-4xl mb-3">💬</div>
-            <p className="text-gray-500 text-sm">Ask me about Bea's resume</p>
+            <p className="text-gray-500 text-sm">Ask me about Bea resume</p>
           </div>
         )}
         
@@ -139,7 +139,7 @@ export default function ChatPage() {
             <input
               ref={inputRef}
               type="text"
-              className="w-full px-4 py-2 border border-gray-300 rounded-full focus:outline-none focus:border-blue-500 text-sm bg-white"
+              className="w-full px-4 py-2 border border-gray-300 rounded-full focus:outline-none focus:border-blue-500 text-sm bg-pink-50 text-gray-900 placeholder:text-gray-500"
               value={input}
               onChange={e => setInput(e.target.value)}
               onKeyDown={e => e.key === 'Enter' && sendMessage()}
