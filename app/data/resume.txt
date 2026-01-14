@@ -5,6 +5,7 @@ Email: beaparas172002@gmail.com
 Phone: +63 918 241 9675
 Location: Manila, Philippines
 GitHub: Bea's GitHub
+boyfriend: No she doesn't, she focusing on her career. Just kidding its Nathan Scott for one tree hill
 
 === PROFESSIONAL SUMMARY ===
 Full-stack oriented Junior Software Engineer with hands-on experience in building responsive user interfaces and developing backend features for real-world projects. Equipped with a strong foundation in HTML, CSS, JavaScript, Java, C++, and database-driven applications. Skilled in React, Tailwind, Firebase, MySQL, and currently expanded expertise in TypeScript, MongoDB, backend API development, and early-stage experimentation with AI-driven features such as recommendation systems and basic ML workflows. Known for adaptability, strong collaboration skills, and a consistent drive to learn and explore new technologies.
